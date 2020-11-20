@@ -1,0 +1,26 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "spareparts:default_coin_recipes"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "group": "coins",
+        "result": {
+          "count": 1,
+          "item": "spareparts:coins/golden_coin"
+        },
+        "ingredients": [
+          {"item": "spareparts:coins/copper_coin"},
+          {"item": "spareparts:coins/copper_coin"},
+          {"item": "spareparts:coins/copper_coin"},
+          {"item": "spareparts:coins/copper_coin"}
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "item.spareparts.coins.wooden_coin"   : "Wooden Coin",
+    "item.spareparts.coins.stone_coin"    : "Stone Coin",
+    "item.spareparts.coins.copper_coin"   : "Copper Coin",
+    "item.spareparts.coins.iron_coin"     : "Iron Coin",
+    "item.spareparts.coins.golden_coin"   : "Golden Coin",
+    "item.spareparts.coins.diamond_coin"  : "Diamond Coin",
+
+    "item.spareparts.paper_fragment"  : "Paper Fragment",
+    "item.spareparts.scrap"           : "Scrap",
+    "item.spareparts.small_motor"     : "Small Motor",
+    "item.spareparts.tool_part"       : "Tool Part",
+    "item.spareparts.valuable_shard"  : "Valuable Shard",
+
+    "item.spareparts.item_01"  : "Item 01",
+    "item.spareparts.item_02"  : "Item 02",
+    "item.spareparts.item_03"  : "Item 03",
+    "item.spareparts.item_04"  : "Item 04",
+    "item.spareparts.item_05"  : "Item 05",
+    "item.spareparts.item_06"  : "Item 06",
+    "item.spareparts.item_07"  : "Item 07",
+
+    "itemGroup.spareparts:"           : "Spare Parts",
+
+    "spareparts.config.common.default_coin_recipes" : "Create standard coin exchange rate recipes"
+}

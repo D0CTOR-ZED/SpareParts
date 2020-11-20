@@ -1,0 +1,6 @@
+{
+  "parent": "spareparts:item/item_base",
+  "textures": {
+    "layer0": "spareparts:item/coins/stone_coin"
+  }
+}
